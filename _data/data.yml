@@ -82,7 +82,7 @@ certifications: # experiences
         start: июнь 2022
         end: настоящее время
         organization: YADRO
-        credentialurl: 'https://yadro.com/'
+        credentialurl: 'https\://yadro.com/'
         credentialname: YADRO
         details: |
           TODO
