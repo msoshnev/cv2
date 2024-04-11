@@ -75,24 +75,33 @@ education:
             - Графовые методы представления функциональных компонентов программных систем
 
 
-experiences:
+certifications: # experiences
     title: Опыт работы
-    info:
-      - role: Инженер по разработке ПО, middle
-        time: июнь 2022 - настоящее время
-        company: YADRO
+    list:
+      - name: Инженер по разработке ПО, middle
+        start: июнь 2022
+        end: настоящее время
+        organization: YADRO
+        credentialurl: https://yadro.com/
+        credentialname: YADRO
         details: |
           TODO
 
-      - role: Код ревьювер
-        time: май 2023 - настоящее время
-        company: Yandex practicum
+      - name: Код ревьювер
+        start: май 2023
+        end: настоящее время
+        organization: Yandex practicum
+        credentialurl:
+        credentialname: Yandex practicum
         details: |
           TODO
 
-      - role: Инженер-программист, middle
-        time: апрель 2022 - июнь 2023
-        company: Emzior Technologies
+      - name: Инженер-программист, middle
+        start: апрель 2022
+        end: июнь 2023
+        organization: Emzior Technologies
+        credentialname: Emzior Technologies
+        credentialurl: http://emzior.ru
         details: |
           - Разработка нового функционала и поддержка существующей кодовой базы для системы управления программным маршрутизатором (средствами языка <mark>Python</mark>).
 
@@ -112,9 +121,12 @@ experiences:
 
           - Взаимодействие с командой аналитиков и тестировщиков по улучшению функционала сетевых устройств.
 
-      - role: Программист, стажёр
-        time: май 2021 — август 2021
-        company: Wargaming (World Of Warships)
+      - name: Программист, стажёр
+        start: май 2021
+        end: август 2021
+        organization: Wargaming (World Of Warships)
+        credentialname: Wargaming (World of Warships)
+        credentialurl: https://www.worldofwarships.ru/
         details: |
           Программист в проекте "Корабли".
 
@@ -122,9 +134,12 @@ experiences:
 
           - Оптимизация существующего механизма балансировки нагрузки на сервера.
 
-      - role: Техник ТЗИ
-        time: июль 2020 — май 2021
-        company: ФГУП "НПП Гамма"
+      - name: Техник ТЗИ
+        start: июль 2020
+        end: май 2021
+        organization: ФГУП "НПП Гамма"
+        credentialname: ФГУП "НПП Гамма"
+        credentialurl: https://nppgamma.ru
         details: |
           Техник в отделе сертификационных испытаний программно-аппаратных средств.
 
