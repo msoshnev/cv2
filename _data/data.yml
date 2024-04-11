@@ -82,7 +82,7 @@ certifications: # experiences
         start: июнь 2022
         end: настоящее время
         organization: YADRO
-        credentialurl: https://yadro.com/
+        credentialurl: 'https://yadro.com/'
         credentialname: YADRO
         details: |
           TODO
@@ -91,7 +91,7 @@ certifications: # experiences
         start: май 2023
         end: настоящее время
         organization: Yandex practicum
-        credentialurl:
+        credentialurl: 'https://practicum.yandex.ru/'
         credentialname: Yandex practicum
         details: |
           TODO
@@ -101,7 +101,7 @@ certifications: # experiences
         end: июнь 2023
         organization: Emzior Technologies
         credentialname: Emzior Technologies
-        credentialurl: http://emzior.ru
+        credentialurl: 'http://emzior.ru'
         details: |
           - Разработка нового функционала и поддержка существующей кодовой базы для системы управления программным маршрутизатором (средствами языка <mark>Python</mark>).
 
@@ -126,7 +126,7 @@ certifications: # experiences
         end: август 2021
         organization: Wargaming (World Of Warships)
         credentialname: Wargaming (World of Warships)
-        credentialurl: https://www.worldofwarships.ru/
+        credentialurl: 'https://www.worldofwarships.ru/'
         details: |
           Программист в проекте "Корабли".
 
@@ -139,7 +139,7 @@ certifications: # experiences
         end: май 2021
         organization: ФГУП "НПП Гамма"
         credentialname: ФГУП "НПП Гамма"
-        credentialurl: https://nppgamma.ru
+        credentialurl: 'https://nppgamma.ru'
         details: |
           Техник в отделе сертификационных испытаний программно-аппаратных средств.
 
